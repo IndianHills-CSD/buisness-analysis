@@ -1,1 +1,2 @@
 # buisness-analysis
+Gosa Ayano
