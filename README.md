@@ -1,6 +1,8 @@
 # buisness-analysis
 Alex Reed
 # Colby Snow
+CadeKirkland
+My Name Is Alonso #GitIsLit
 Blake Turner
 # Colby Snow
 Kyler VanDerAa
