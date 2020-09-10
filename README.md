@@ -1,4 +1,5 @@
 # buisness-analysis
+Nick Houser
 Natnail Alamneh
 # hello this is David Amos
 Luke Matheis
