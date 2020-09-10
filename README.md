@@ -1,4 +1,5 @@
 # buisness-analysis
+Justin Snyder
 Nick Houser
 Natnail Alamneh
 # hello this is David Amos
