@@ -1,4 +1,5 @@
 # buisness-analysis
+Natnail Alamneh
 # hello this is David Amos
 Luke Matheis
 Lucas Chapman
