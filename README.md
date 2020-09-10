@@ -1,4 +1,5 @@
 # buisness-analysis
+Lucas Chapman
 Dillon Yost
 Tyler G
 Sam Moore
@@ -6,4 +7,3 @@ Sam Moore
 Gosa Ayano
 # Colby Snow
 # Curtis Ford
-
