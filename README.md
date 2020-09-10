@@ -1,4 +1,5 @@
 # buisness-analysis
+Kyler VanDerAa
 Justin Snyder
 Nick Houser
 Natnail Alamneh
