@@ -1,4 +1,6 @@
 # buisness-analysis
+Blake Turner
+# Colby Snow
 Kyler VanDerAa
 Justin Snyder
 Nick Houser
