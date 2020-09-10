@@ -1,4 +1,5 @@
 # buisness-analysis
+Luke Matheis
 Lucas Chapman
 Dillon Yost
 Tyler G
