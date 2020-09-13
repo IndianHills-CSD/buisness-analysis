@@ -1,4 +1,5 @@
 # buisness-analysis
+Taylor McGrann
 Alex Reed
 # Colby Snow
 CadeKirkland
